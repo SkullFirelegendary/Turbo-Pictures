@@ -173,7 +173,7 @@ footer{
     width: 500px;
 }
 
-.contact{
+.contact, .about{
     display: flex;
 }
 
