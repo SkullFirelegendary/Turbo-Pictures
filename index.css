@@ -342,6 +342,7 @@ h7{
 .portfolio{
     width: 10%;
 }
+
 .portfolio img{
     width: 500px;
 }
@@ -379,7 +380,7 @@ h7{
         width: 30%;
     }
     .portfolio img{
-        width: 100%;
+        width: 20%;
     }
 
     .title h2{
@@ -395,7 +396,7 @@ h7{
     }
 
     .projects img{
-        width:  20%;
+        width:  100%;
     }
     
     .Read_More{
