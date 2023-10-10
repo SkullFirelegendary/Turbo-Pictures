@@ -8,7 +8,7 @@ body{
 
 table, th, td{
     width: 100% ;
-    border: 1px none;
+    border: 1px solid;
     border-collapse: collapse;
 }
 
@@ -168,6 +168,7 @@ footer{
 .contact-image{
     width: 30%;
 }
+
 .contact img{
     width: 500px;
 }
@@ -335,6 +336,16 @@ h7{
 }
 /* fb6823 */
 
+/*===================================================================
+            Portfolio Web-Page
+===================================================================*/
+.portfolio{
+    width: 10%;
+}
+.portfolio img{
+    width: 500px;
+}
+
 @media screen and (max-width:767px) {
     .Logo img{
         width: 100px;
@@ -364,8 +375,11 @@ h7{
         text-shadow: 0px 1px black;
         background-color:slategrey;
     }
-    .contact img{
-        width: 300px;
+    .contact img, .portfolio{
+        width: 30%;
+    }
+    .portfolio img{
+        width: 100%;
     }
 
     .title h2{
