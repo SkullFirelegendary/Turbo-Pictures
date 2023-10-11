@@ -376,7 +376,7 @@ h7{
         text-shadow: 0px 1px black;
         background-color:slategrey;
     }
-    .portfolio, about_us img{
+    .portfolio, .about_us img{
         width: 30%;
     }
     .contact_info{
