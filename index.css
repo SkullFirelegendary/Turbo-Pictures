@@ -388,6 +388,11 @@ h7{
     .portfolio img{
         width: 100%;
     }
+    
+    .about{
+        width: 50%;
+    }
+    
     .about_us img{
     width: 100%;
     }
