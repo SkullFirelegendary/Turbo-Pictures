@@ -319,7 +319,7 @@ h7{
 .about{
     width: 20%;
 }
-.about_info{
+.about_info, .portfolio_info{
     font-size: 18px;
     margin-left: 1%;
 }
@@ -379,14 +379,17 @@ h7{
     .portfolio{
         width: 30%;
     }
-    .contact_info, .about_info{
+    .contact_info{
         font-size: 10px;
+    }
+    .about_info{
+        font-size: 12px;
     }
     .portfolio img{
         width: 100%;
     }
     .about_us img{
-    width: 80%;
+    width: 100%;
     }
     .contact img{
         width:50%;    
