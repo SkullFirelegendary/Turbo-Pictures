@@ -379,7 +379,7 @@ h7{
     .portfolio{
         width: 30%;
     }
-    .contact_info{
+    .contact_info, .about_info{
         font-size: 10px;
     }
     .portfolio img{
