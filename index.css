@@ -258,6 +258,9 @@ h7{
     width: 90%;
     height: 310px;
 }
+.projects td{
+    width: 50%;
+}
 
 .Read_More button{
     color: whitesmoke;
