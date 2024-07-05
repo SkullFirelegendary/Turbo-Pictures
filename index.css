@@ -254,10 +254,6 @@ h7{
     color: dimgray;
 }
 
-.projects{
-    text-align: center;
-}
-
 .projects img{
     width: 90%;
     height: 310px;
@@ -409,6 +405,7 @@ h7{
     
     .container2{
         display:table-row;
+        text-align:center;
     }
 
     .projects img{
