@@ -126,7 +126,7 @@ h3{
     height: 25px;
 }
 
-.View_More-btn:hover{
+.View_More-btn:hover, .More:hover{
     background-color: #f484f8;
     color: whitesmoke;
     cursor: pointer;
